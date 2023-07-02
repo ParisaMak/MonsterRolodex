@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters_rolodex/static/css/main.116dfc2b.css",
+    "main.js": "/monsters_rolodex/static/js/main.fe74b4c6.js",
+    "static/js/787.2e06231d.chunk.js": "/monsters_rolodex/static/js/787.2e06231d.chunk.js",
+    "index.html": "/monsters_rolodex/index.html",
+    "main.116dfc2b.css.map": "/monsters_rolodex/static/css/main.116dfc2b.css.map",
+    "main.fe74b4c6.js.map": "/monsters_rolodex/static/js/main.fe74b4c6.js.map",
+    "787.2e06231d.chunk.js.map": "/monsters_rolodex/static/js/787.2e06231d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.116dfc2b.css",
+    "static/js/main.fe74b4c6.js"
+  ]
+}
